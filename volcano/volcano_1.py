@@ -4,7 +4,7 @@ Created on Thu Aug 22 20:02:40 2019
 
 @author: hp
 """
-import numpy as np # Scientific computing
+import numpy as np #
 import matplotlib.pyplot as plt # Plotting
 import matplotlib.colors as colors # Coloring
 import seaborn as sns # Statistical visualization
